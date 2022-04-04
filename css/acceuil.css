@@ -1,0 +1,26 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+#header {
+  height: 50px;
+  width: 100%;
+  background-color: white;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+#container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: rgb(209, 205, 205);
+  width: 100%;
+}
+
+#bottom {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+}
